@@ -17,7 +17,7 @@ class DetalleScreen extends StatelessWidget {
               children: [
                 ClipOval(
                   child: Image.network(
-                    'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=200&q=80',
+                    'https://raw.githubusercontent.com/AngelSPerez/imagenes/refs/heads/main/perfil.webp',
                     width: 64,
                     height: 64,
                     fit: BoxFit.cover,
